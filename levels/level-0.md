@@ -12,7 +12,7 @@ The goals of level 0 are to:
 
 ## Create your repository
 
-1. Go to https://github.com/CodeYourFuture/Project-TV-Show
+1. Go to [https://github.com/Migracode-Barcelona/Project-TV-Show](https://github.com/Migracode-Barcelona/Project-TV-Show)
 2. Click on the green button: `Use this template.`
 3. Name your new repo exactly this: `Project-TV-Show`
 4. Do not enable `Include all branches`
