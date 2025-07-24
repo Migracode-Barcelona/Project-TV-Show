@@ -4,7 +4,7 @@ Make a change to the template and then pull changes
 Repo: https://github.com/CodeYourFuture/Module-Template
 -->
 
-# Everyone reviews code at CYF
+# Everyone reviews code at MigraCode
 
 Mentors and trainees all review code, and collaborate on improving code quality. We are all helping each other to talk, write, and think about code more clearly.
 
@@ -52,6 +52,8 @@ Everyone is invited to contribute commonly encountered problems, mistakes, misun
 Use these resources to inform your code review, get unstuck, and improve your understanding.
 
 ## Guides
+
+> 📝 _This checklist is adapted for Migracode Barcelona based on a template by [CodeYourFuture](https://github.com/CodeYourFuture/Project-TV-Show)._
 
 Here's a detailed checklist of the sorts of things we should check code for:
 
